@@ -1,1 +1,1 @@
-# sms-spammer
+﻿install python2
